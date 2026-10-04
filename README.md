@@ -27,7 +27,7 @@
 ```yaml
 name: Aryaman Sinha
 location: Bengaluru, India 🇮🇳
-education: B.Tech, Computer Science & Engineering — IIT (BHU) Varanasi (2021 – 2025) · CGPA 8.47
+education: B.Tech, Computer Science & Engineering — IIT (BHU) Varanasi (2021 – 2025) 
 current_role: Software Engineer @ Ola — OlaCare, agentic AI customer support (Jun 2025 – present)
 previous: Founding Engineer @ QuickWage Financials (Jul 2023 – May 2025)
 
