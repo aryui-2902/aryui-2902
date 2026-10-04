@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Aryaman%20Sinha&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Ola%20%7C%20Agentic%20AI%20%26%20Backend%20Systems&descSize=19&descAlignY=58&animation=fadeIn" alt="Aryaman Sinha" />
+  <a href="https://www.linkedin.com/in/aryaman-sinha-b5194a227/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Aryaman%20Sinha&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Ola%20%7C%20Agentic%20AI%20%26%20Backend%20Systems&descSize=19&descAlignY=58" alt="Aryaman Sinha" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/aryui-2902">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+agentic+AI+that+resolves+20%2C000%2B+tickets%2Fday;LangGraph+%E2%80%A2+Strands+%E2%80%A2+MCP+%E2%80%A2+RAG;Java+%2F+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Codeforces+Expert+%E2%80%A2+CodeChef+5%E2%98%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+agentic+AI+that+resolves+20%2C000%2B+tickets%2Fday;LangGraph+%E2%80%A2+Strands+%E2%80%A2+MCP+%E2%80%A2+RAG;Java+%2F+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Codeforces+Expert+%E2%80%A2+CodeChef+5%E2%98%85" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,6 @@
 <p align="center">
   <a href="https://codeforces.com/profile/aryui_2902"><img src="https://img.shields.io/badge/Codeforces-Expert%20(1607)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://leetcode.com/u/aryaman-sinha/"><img src="https://img.shields.io/badge/LeetCode-aryaman--sinha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <img src="https://img.shields.io/badge/CodeChef-5%E2%98%85%20(2007)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   <img src="https://komarev.com/ghpvc/?username=aryui-2902&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -110,3 +109,4 @@ Daily LLM stock picks for US and Indian markets, made with the Claude API from y
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" alt="" />
 </p>
+
