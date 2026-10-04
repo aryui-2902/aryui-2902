@@ -93,6 +93,16 @@ Daily LLM stock picks for US and Indian markets, made with the Claude API from y
 </tr>
 </table>
 
+### 🗂️ More on my GitHub
+
+| Repo | What it is | Stack |
+|---|---|---|
+| [Biz-Club-Bash](https://github.com/aryui-2902/Biz-Club-Bash) | Stock-trading dashboard prototype with a watchlist and buy/sell actions *(original: Drath10)* | Next.js · React · MUI |
+| [floww-api-ver1](https://github.com/aryui-2902/floww-api-ver1) | Prototype REST API for order management *(original: prakharpks02)* | Django · DRF |
+| [floww](https://github.com/aryui-2902/floww) | Delivery and order API views: tracking, cancellation, cost estimates *(original: prakharpks02)* | Django · DRF |
+| [cvxpy](https://github.com/aryui-2902/cvxpy) | Study copy of the convex-optimization library *(original: cvxpy/cvxpy)* | Python · C++ |
+| [hacktoberfest-swag-list](https://github.com/aryui-2902/hacktoberfest-swag-list) | Hacktoberfest swag list docs site *(original: crweiner)* | MkDocs |
+
 ## 🏆 Achievements
 
 - 🥇 **Codeforces Expert** (1607) · **CodeChef 5★** (2007) · **Global Rank 16** in CodeChef Starters 92 (Div 3)
