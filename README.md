@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryaman-sinha-b5194a227/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Aryaman%20Sinha&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Ola%20%7C%20Agentic%20AI%20%26%20Backend%20Systems&descSize=19&descAlignY=58" alt="Aryaman Sinha" /></a>
+  <a href="https://www.linkedin.com/in/aryaman-sinha-b5194a227/"><img src="assets/header.svg" width="100%" alt="Aryaman Sinha" /></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
 <p align="center">
   <a href="https://codeforces.com/profile/aryui_2902"><img src="https://img.shields.io/badge/Codeforces-Expert%20(1607)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://leetcode.com/u/aryaman-sinha/"><img src="https://img.shields.io/badge/LeetCode-aryaman--sinha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://github.com/aryui-2902"><img src="https://komarev.com/ghpvc/?username=aryui-2902&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/></a>
 </p>
 
 ---
@@ -104,6 +103,6 @@ Daily LLM stock picks for US and Indian markets, made with the Claude API from y
 | [hacktoberfest-swag-list](https://github.com/aryui-2902/hacktoberfest-swag-list) | Hacktoberfest swag list docs site *(original: crweiner)* | MkDocs |
 
 <p align="center">
-  <a href="https://github.com/aryui-2902"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" alt="" /></a>
+  <a href="https://github.com/aryui-2902"><img src="assets/footer.svg" width="100%" alt="" /></a>
 </p>
 

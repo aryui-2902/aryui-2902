@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Aryaman Sinha — Software Engineer @ Ola | Agentic AI &amp; Backend Systems">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f0c29"/><stop offset="0.5" stop-color="#302b63"/><stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V170C1050 215 930 150 780 175C630 200 540 230 390 200C240 170 120 200 0 185Z"/>
+  <path fill="#ffffff" fill-opacity="0.06" d="M0 150C160 190 300 140 470 165C640 190 760 215 930 185C1060 162 1140 175 1200 160V170C1050 215 930 150 780 175C630 200 540 230 390 200C240 170 120 200 0 185Z"/>
+  <text x="600" y="98" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="62" font-weight="700">Aryaman Sinha</text>
+  <text x="600" y="142" text-anchor="middle" fill="#e2e0ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">Software Engineer @ Ola  |  Agentic AI &amp; Backend Systems</text>
+</svg>
