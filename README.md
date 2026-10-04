@@ -96,11 +96,15 @@ Daily LLM stock picks for US and Indian markets, made with the Claude API from y
 
 | Repo | What it is | Stack |
 |---|---|---|
+| [LLD](https://github.com/aryui-2902/LLD) | Low-level design and machine-coding interview prep: OOP, SOLID and 33 problems with tests | Python |
+| [LiquidGalaxy_Aryaman](https://github.com/aryui-2902/LiquidGalaxy_Aryaman) | Flutter controller app for a Liquid Galaxy rig over SSH (prototype) | Flutter · Dart |
+| [DBMS2023](https://github.com/aryui-2902/DBMS2023) | Academic management system (DBMS course group project) *(original: SaxenaAbhay)* | Spring Boot · MySQL |
 | [Biz-Club-Bash](https://github.com/aryui-2902/Biz-Club-Bash) | Stock-trading dashboard prototype with a watchlist and buy/sell actions *(original: Drath10)* | Next.js · React · MUI |
 | [floww-api-ver1](https://github.com/aryui-2902/floww-api-ver1) | Prototype REST API for order management *(original: prakharpks02)* | Django · DRF |
 | [floww](https://github.com/aryui-2902/floww) | Delivery and order API views: tracking, cancellation, cost estimates *(original: prakharpks02)* | Django · DRF |
 | [cvxpy](https://github.com/aryui-2902/cvxpy) | Study copy of the convex-optimization library *(original: cvxpy/cvxpy)* | Python · C++ |
 | [hacktoberfest-swag-list](https://github.com/aryui-2902/hacktoberfest-swag-list) | Hacktoberfest swag list docs site *(original: crweiner)* | MkDocs |
+| [instant-ngp](https://github.com/aryui-2902/instant-ngp) | Study copy of instant neural graphics primitives (NeRF) *(original: NVlabs)* | C++ · CUDA |
 
 <p align="center">
   <a href="https://github.com/aryui-2902"><img src="assets/footer.svg" width="100%" alt="" /></a>
