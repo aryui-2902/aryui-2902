@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://codeforces.com/profile/aryui_2902"><img src="https://img.shields.io/badge/Codeforces-Expert%20(1607)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://leetcode.com/u/aryaman-sinha/"><img src="https://img.shields.io/badge/LeetCode-aryaman--sinha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <img src="https://komarev.com/ghpvc/?username=aryui-2902&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://github.com/aryui-2902"><img src="https://komarev.com/ghpvc/?username=aryui-2902&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/></a>
 </p>
 
 ---
@@ -55,19 +55,19 @@ open_to: conversations about backend and AI engineering roles (SDE-1 / SDE-2)
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,spring,fastapi,flask,react,postgres,mysql,redis,aws,docker,git,linux&perline=8" alt="Tech stack" />
+  <a href="https://github.com/aryui-2902"><img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,spring,fastapi,flask,react,postgres,mysql,redis,aws,docker,git,linux&perline=8" alt="Tech stack" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strands%20Agents-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20%2B%20pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5B25?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /></a>
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /></a>
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/Strands%20Agents-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square&logo=anthropic&logoColor=white" /></a>
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/RAG%20%2B%20pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/XGBoost-EB5B25?style=flat-square" /></a>
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
+  <a href="https://github.com/aryui-2902"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /></a>
 </p>
 
 ## 📌 Featured Projects
@@ -103,20 +103,7 @@ Daily LLM stock picks for US and Indian markets, made with the Claude API from y
 | [cvxpy](https://github.com/aryui-2902/cvxpy) | Study copy of the convex-optimization library *(original: cvxpy/cvxpy)* | Python · C++ |
 | [hacktoberfest-swag-list](https://github.com/aryui-2902/hacktoberfest-swag-list) | Hacktoberfest swag list docs site *(original: crweiner)* | MkDocs |
 
-## 🏆 Achievements
-
-- 🥇 **Codeforces Expert** (1607) · **CodeChef 5★** (2007) · **Global Rank 16** in CodeChef Starters 92 (Div 3)
-- 🎓 Ranked **6th of 1400+** in first-year academics at IIT (BHU)
-- 📊 National Finalist, **DATASIGHTS 3.0**, IIM Kashipur (2022) · Member of the Quant Club, IIT (BHU)
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryui-2902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=aryui-2902&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" alt="" />
+  <a href="https://github.com/aryui-2902"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" alt="" /></a>
 </p>
 
